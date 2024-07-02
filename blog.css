@@ -1,0 +1,40 @@
+.Main {
+  background-image: url("WelcomeScan.jpg");
+  margin: 20px 10px;
+  padding: 10px;
+  border: 10px solid cyan;
+  border-radius: 5px;
+  box-shadow: 10px 20px 20px;
+  height: 600px;
+  width: 800px;
+}
+header {
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgba(16, 100, 210, 0.974);
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  /* This is External CSS */
+  font-family: "Courier New", Courier, monospace;
+  background-color: chocolate;
+  width: 80%;
+}
+h3 {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgba(16, 100, 210, 0.974);
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  /* display: none; */
+}
+.bt{
+  
+  margin: 5px solid yellow;
+  border: 10px rgb(78, 10, 142);
+  border-radius: 5px;
+  padding: 5px;
+}
